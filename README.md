@@ -382,3 +382,6 @@ micahondiwa@ubuntu:~/monty$
 |[opcode_instructions3.c](opcode_instructions3.c)|A ```C``` program containinbg ```div```, ```mul```, ```mod```, ```pchar```, and ```pstr``` opcode functions. |
 |[opcode_instructions4.c](opcode_instructions4.c)|A ```C``` program containing ```rotl```, and ```rotr``` opcode functions|
 |[str_functions.c](str_functions.c)|A ```C``` program with ```strcmp```-a function that compares two strings, sch-search if a char is inside a string and ```strtoky``` - function that cut a string into tokens depending of the delimit|.
+
+
+Author: [micahondiwa](https://github.com/micahondiwa)
