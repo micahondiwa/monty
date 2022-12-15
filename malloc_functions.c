@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * _calloc - concatenate tw strings specially
+ * _calloc - concatenate two strings specially
  * @nmemb: number of elements
  * @size: type of elements
  * Return: nothing
