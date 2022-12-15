@@ -1,6 +1,6 @@
 # C - Stacks, Queues - LIFO, FIFO
 
--A project done during my Full Stack Software Engineering studies at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/), a course offered by [Holberton School](https://www.holbertonschool.com/).
+-A project done during my Full-Stack Software Engineering studies at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/), a course offered by [Holberton School](https://www.holbertonschool.com/).
 
 ## Technologies
 - Files written in ```vi```, ```vim```, and ```emacs``` editors. 
