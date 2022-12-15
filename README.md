@@ -326,7 +326,7 @@ Usage: rotr
 - The front of the queue becomes the top of the stack
 
 -Example:
-````
+```
 micahondiwa@ubuntu:~/monty$ cat bytecodes/47.m
 queue
 push 1
@@ -366,4 +366,19 @@ micahondiwa@ubuntu:~/monty$ ./monty bytecodes/47.m
 11111
 micahondiwa@ubuntu:~/monty$ 
 ```
+## Files and Directories 
 
+| Directory/File  | Description |
+| ---  | --- |
+|[bf](bf)|Codes implenting the [Brainfuck Langauge](https://en.wikipedia.org/wiki/Brainfuck)|
+|[bytecodes](bytecodes)|Contains bytecode files for the ```monty``` language|
+|[doubly_functions.c](doubly_functions.c)|A ```C``` program implementing doubly-linked list: adding a note at the end of the doubly link list, adding a note at the begining of the doubly link list, frees the doubly linked list|
+|[get_opcodes.c](get_opcodes.c)|A ```C ``` program that selects the correct opcode to perform and returns a pointer to the function that executes the opcode.|
+|[main.c](main.c)|A ```C``` program that frees the global variables, initializes the global variables, checks if the file exists and if the file can be opened and provides the entry point.|
+|[malloc_functions.c](malloc_functions.c)|A ```C``` program that concatenates two strings specially and changes the size and copy the content.|
+|[monty.h](monty.h)|The header file containing the prototypes of all your functions|
+|[opcode_instructions.c](opcode_instructions.c)|A ```C``` program containing ```push```, ```pall```, ```pint```, ```pop```, and ```swap``` opcode functions.|
+|[opcode_instructions2.c](opcode_instructions2.c)|A ```C``` program containing ```queue```, ```stack```, ```add```, ```nop```, and ```sub``` opcode functions.|
+|[opcode_instructions3.c](opcode_instructions3.c)|A ```C``` program containinbg ```div```, ```mul```, ```mod```, ```pchar```, and ```pstr``` opcode functions. |
+|[opcode_instructions4.c](opcode_instructions4.c)|A ```C``` program containing ```rotl```, and ```rotr``` opcode functions|
+|[str_functions.c](str_functions.c)|A ```C``` program with ```strcmp```-a function that compares two strings, sch-search if a char is inside a string and ```strtoky``` - function that cut a string into tokens depending of the delimit|.
