@@ -1,6 +1,6 @@
 # C - Stacks, Queues - LIFO, FIFO
 
--A project done during my Full-Stack Software Engineering studies at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/), a course offered by [Holberton School](https://www.holbertonschool.com/).
+- A project done during my Full-Stack Software Engineering studies at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/), a course offered by [Holberton School](https://www.holbertonschool.com/).
 
 ## Technologies
 - Files written in ```vi```, ```vim```, and ```emacs``` editors. 
@@ -31,5 +31,24 @@
   - it finds an error in the file
   - an error occured
  - If you can’t malloc anymore, the program prints the error message ```Error: malloc failed```, followed by a new line, and exit with status ```EXIT_FAILURE```.
+#### Compilation
+```
+$ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
+$
+```
+#### Run
+```
+$ ./monty monty_file.m
+5
+7
+1
+2
+```
+#### Interpreter Synopsis
+```
+$ ./monty [montyfilename]
+$
+```
+#### Opcodes
 
 
