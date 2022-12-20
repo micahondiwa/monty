@@ -252,7 +252,7 @@ push 83
 pstr
 micahondiwa@ubuntu:~/monty$ ./monty bytecodes/31.m 
 School
-julien@ubuntu:~/monty$ 
+micahondiwa@ubuntu:~/monty$ 
 ```
 12. ```rotl```
 - The opcode ```rotl``` rotates the stack to the top.
