@@ -207,7 +207,7 @@ Usage: ```mod```
 - If the top element of the stack is 0, print the error message L<line_number>: division by zero, followed by a new line, and exit with the status EXIT_FAILURE
 
 10. ```pchar```
-- The opcode ```pchar``` prints the char at the top of the stack, followed by a new line.
+- The opcode ```pchar``` prints the char at the top of the stack.
 
 - Usage: ```pchar```
 - The integer stored at the top of the stack is treated as the ascii value of the character to be printed
