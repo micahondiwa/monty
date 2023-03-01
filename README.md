@@ -147,7 +147,6 @@ micahondiwa@ubuntu:~/monty$ ./monty bytecodes/12.m
 2
 1
 5
-1
 micahondiwa@ubuntu:~/monty$
 ```
 5. ```nop```
@@ -248,7 +247,6 @@ push 111
 push 104
 push 99
 push 83
-pstr
 micahondiwa@ubuntu:~/monty$ ./monty bytecodes/31.m 
 School
 micahondiwa@ubuntu:~/monty$ 
